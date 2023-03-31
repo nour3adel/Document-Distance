@@ -1,0 +1,30 @@
+D:\Programming\College\Algorithms\Assignment BONUS\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+D:\Programming\College\Algorithms\Assignment BONUS\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+D:\Programming\College\Algorithms\Assignment BONUS\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+D:\Programming\College\Algorithms\Assignment BONUS\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+D:\Programming\College\Algorithms\Assignment BONUS\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+D:\Programming\College\Algorithms\Assignment BONUS\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+D:\Programming\College\Algorithms\Assignment BONUS\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.SuggestedBindingRedirects.cache
+D:\Programming\College\Algorithms\Assignment BONUS\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+D:\Programming\College\Algorithms\Assignment BONUS\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+D:\Programming\College\Algorithms\Assignment BONUS\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
+D:\Programming\College\Algorithms\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+D:\Programming\College\Algorithms\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+D:\Programming\College\Algorithms\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+D:\Programming\College\Algorithms\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+D:\Programming\College\Algorithms\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+D:\Programming\College\Algorithms\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+D:\Programming\College\Algorithms\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.SuggestedBindingRedirects.cache
+D:\Programming\College\Algorithms\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+D:\Programming\College\Algorithms\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+D:\Programming\College\Algorithms\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
+D:\Programming\College\Algorithms\Assignments\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+D:\Programming\College\Algorithms\Assignments\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+D:\Programming\College\Algorithms\Assignments\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+D:\Programming\College\Algorithms\Assignments\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+D:\Programming\College\Algorithms\Assignments\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+D:\Programming\College\Algorithms\Assignments\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+D:\Programming\College\Algorithms\Assignments\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.SuggestedBindingRedirects.cache
+D:\Programming\College\Algorithms\Assignments\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+D:\Programming\College\Algorithms\Assignments\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+D:\Programming\College\Algorithms\Assignments\Assignment BONUS\Document Distance\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
